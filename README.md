@@ -23,10 +23,10 @@ To get started with the project:
 
 ```bash
 # 1. Clone the repository
-git clone <your-repo-url>
+git clone 
 
 # 2. Navigate into the project directory
-cd <your-project-folder>
+cd <project-folder>
 
 # 3. Install dependencies
 npm install
