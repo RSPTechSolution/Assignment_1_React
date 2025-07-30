@@ -1,12 +1,35 @@
-# React + Vite
+# React Counter App
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A simple React application built with **Vite**, showcasing both **Functional Component** and **Class Component** usage with increment and decrement counter functionality.
 
-Currently, two official plugins are available:
+## ✨ Features
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+- ⚛️ Functional Counter Component using React `useState`
+- 🧱 Class-based Counter Component using React `Component`
+- ➕➖ Increment / Decrement counter logic
+- ❌ Prevents negative numbers
+- 🎨 Centered layout with styled counter cards
+- 💨 Powered by Vite for fast development and hot module replacement
 
-## Expanding the ESLint configuration
+## 🛠️ Tech Stack
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+- [React](https://reactjs.org/)
+- [Vite](https://vitejs.dev/)
+- [JavaScript (ES6+)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+
+## 📦 Installation
+
+To get started with the project:
+
+```bash
+# 1. Clone the repository
+git clone <your-repo-url>
+
+# 2. Navigate into the project directory
+cd <your-project-folder>
+
+# 3. Install dependencies
+npm install
+
+# 4. Start the development server
+npm run dev
