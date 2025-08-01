@@ -1,3 +1,5 @@
+Web Url: https://assignment-1-react-counter.netlify.app/
+
 # React Counter App
 
 A simple React application built with **Vite**, showcasing both **Functional Component** and **Class Component** usage with increment and decrement counter functionality.
