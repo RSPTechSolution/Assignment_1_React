@@ -9,8 +9,8 @@ const FunctionalCounter = () => {
                 <h1>Functional Component</h1>
                 <div className="label">{count}</div>
                 <div className="action-button">
-                    <button onClick={() => setCount(count + 1)}>➕</button>
-                    <button onClick={() => count > 0 && setCount(count - 1)}>➖</button>      
+                    <button onClick={() => setCount(count + 1)}>+</button>
+                    <button onClick={() => count > 0 && setCount(count - 1)}>-</button>      
                 </div>  
             </div>
         </>
