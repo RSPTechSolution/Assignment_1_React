@@ -1,4 +1,4 @@
-Web Url: https://assignment-1-react-counter.netlify.app/
+
 
 # React Counter App
 
@@ -22,7 +22,7 @@ A simple React application built with **Vite**, showcasing both **Functional Com
 ## 📦 Installation
 
 To get started with the project:
-
+Web Url: https://assignment-1-react-counter.netlify.app/
 ```bash
 # 1. Clone the repository
 git clone 
@@ -35,3 +35,4 @@ npm install
 
 # 4. Start the development server
 npm run dev
+
